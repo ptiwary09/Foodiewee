@@ -18,7 +18,7 @@ const User = ({ name, location }) => {
       <h1>Count2: {count2}</h1>
       <h2>Name: {name}</h2>
       <h3>Location: {location}</h3>
-      <h4>Contact: 8090838832</h4>
+      <h4>Contact: 8090865785</h4>
     </div>
   );
 };

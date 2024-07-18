@@ -52,6 +52,7 @@
     "axios": "^1.7.2",
     "cors": "^2.8.5",
     "elemental": "^0.6.1",
+    "firebase": "^10.12.3",
     "framer-motion": "^11.1.9",
     "module-library": "^0.96.0",
     "razorpay": "^2.9.4",

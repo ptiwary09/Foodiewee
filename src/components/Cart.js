@@ -39,7 +39,7 @@ const Cart = () => {
             key: "rzp_test_QFCXIGewjw1Y8K",
             amount: price * 100,
             currency: "INR",
-            name: "Singh Food Delivery",
+            name: "Foodie-wee",
             description: "Thank you for your test purchase",
             image: '',
             handler: handlePaymentSuccess,

@@ -7,7 +7,7 @@ const OrderdPage = () => {
       {/* Header */}
       <header className="bg-white shadow-lg py-4 ">
         <div className="container mx-auto px-4">
-          <h1 className="text-3xl  justify-center items-center font-semibold text-gray-800">Singh Food Delivery </h1>
+          <h1 className="text-3xl  justify-center items-center font-semibold text-gray-800">Foodie-Wee Delivery </h1>
         </div>
       </header>
 
