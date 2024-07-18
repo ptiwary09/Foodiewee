@@ -120,6 +120,15 @@ import Component from "path";
   *    - Second Child ComponentDidMount()
   
   *  - Parent ComponentDidMount()=
+   ![Screenshot 2024-07-18 234606](https://github.com/user-attachments/assets/f717ac65-d31d-4487-b4d5-3f800f11d305)
+
+  *  #wedsite view
+  *  Items Section
+  *  ![Screenshot 2024-07-18 234716](https://github.com/user-attachments/assets/9059522a-2d11-48d4-a792-fc6e95ca2f6d)
+
+  *  Payment Section
+  *  ![Screenshot 2024-07-18 234850](https://github.com/user-attachments/assets/96e35996-e421-41c1-9ab6-b43f65570009)
+
   
 
    # notes
